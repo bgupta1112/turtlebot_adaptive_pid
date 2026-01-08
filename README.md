@@ -36,7 +36,7 @@ source install/setup.bash
 ```
 
 ## Usage
-
+source install/setup.bash
 ### Launch the controller with turtlesim:
 ```bash
 ros2 launch turtlebot_adaptive_pid turtlebot_pid_launch.py
